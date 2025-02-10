@@ -27,4 +27,5 @@ int main() {
     
     cout<<s1<<' '<<checkIfPangram(s1)<<endl;
     cout<<s2<<' '<<checkIfPangram(s2)<<endl;
+    return 0;
 }
