@@ -43,6 +43,7 @@ Node* InsertNode(Node *root, int data) {
 			return root;
 		}
 	}
+	return root;
 }
 
 
